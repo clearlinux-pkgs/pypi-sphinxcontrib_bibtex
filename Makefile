@@ -1,5 +1,5 @@
 PKG_NAME := sphinxcontrib-bibtex
-URL = https://files.pythonhosted.org/packages/97/a7/564e1949e3a471f88947baf5c3ac08248a43609e6da6544470877b7e2102/sphinxcontrib-bibtex-0.4.1.tar.gz
+URL = https://files.pythonhosted.org/packages/5c/c9/1205b8d72c4744d25970f0a1ff5fdb93b0f94ffa5014ef40e8cb8b33156d/sphinxcontrib-bibtex-0.4.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
