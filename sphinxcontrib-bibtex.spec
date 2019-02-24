@@ -4,7 +4,7 @@
 #
 Name     : sphinxcontrib-bibtex
 Version  : 0.4.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/5c/c9/1205b8d72c4744d25970f0a1ff5fdb93b0f94ffa5014ef40e8cb8b33156d/sphinxcontrib-bibtex-0.4.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5c/c9/1205b8d72c4744d25970f0a1ff5fdb93b0f94ffa5014ef40e8cb8b33156d/sphinxcontrib-bibtex-0.4.2.tar.gz
 Summary  : A Sphinx extension for BibTeX style citations.
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1546886224
+export SOURCE_DATE_EPOCH=1551037776
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
