@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_bibtex
 Version  : 2.4.2
-Release  : 29
+Release  : 30
 URL      : https://files.pythonhosted.org/packages/40/17/8349d5dd28d71d2a25c7a6f317071b9360aefc3090a2abd475c8a5937811/sphinxcontrib-bibtex-2.4.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/40/17/8349d5dd28d71d2a25c7a6f317071b9360aefc3090a2abd475c8a5937811/sphinxcontrib-bibtex-2.4.2.tar.gz
 Summary  : Sphinx extension for BibTeX style citations.
@@ -68,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656371947
+export SOURCE_DATE_EPOCH=1656409010
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
