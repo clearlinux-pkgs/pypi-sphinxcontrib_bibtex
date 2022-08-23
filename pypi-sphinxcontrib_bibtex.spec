@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_bibtex
 Version  : 2.5.0
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/eb/54/94fbcd5eb0532eaa91580d09795c4b6c562b72d5638c2ed5b5cc31d2b1f8/sphinxcontrib-bibtex-2.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/eb/54/94fbcd5eb0532eaa91580d09795c4b6c562b72d5638c2ed5b5cc31d2b1f8/sphinxcontrib-bibtex-2.5.0.tar.gz
 Summary  : Sphinx extension for BibTeX style citations.
